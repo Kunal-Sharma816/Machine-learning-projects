@@ -1,0 +1,1 @@
+This is the regression project , in this project we predict the price of laptop using data in file "laptop_data.csv"
